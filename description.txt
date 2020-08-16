@@ -1,1 +1,4 @@
 极光武器  在过渡期添加了10武器，强度高于同一时期原版武器，帮助快速开荒。
+
+博客介绍文章：http://blog.ccpe.top/2020/08/10/strangeKnowledge_TerrariaModShow/
+GitHub开源地址：
